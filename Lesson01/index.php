@@ -1,3 +1,6 @@
 <?php
-	echo 'string 2';
+	// this is first comment
+	echo "First php lesson";
+
+
 ?>
